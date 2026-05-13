@@ -1,4 +1,4 @@
-# 
+# custom Atom for PC | Atom for Windows Plugin | code-folding + file-explorer offers the most advanced Atom for PC | Atom for Windows plugin, with code-folding and file-explorer.
 
 
 
